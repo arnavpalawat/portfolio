@@ -45,22 +45,14 @@ export default function Nav() {
   return (
     <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24 flex flex-col lg:gap-4">
       <div className="flex flex-col gap-4 lg:pr-24 mt-6 lg:mt-0">
-        <div className="w-full flex lg:items-center lg:justify-start">
-          <Avatar className="w-24 lg:w-36 h-auto border-2 border-primary bg-secondary">
-            <AvatarImage src="./avatar.png" />
-            <AvatarFallback className="w-24 h-24 lg:w-36 lg:h-36 rounded-full border-1 border-primary">
-              AM
-            </AvatarFallback>
-          </Avatar>
-        </div>
         <h1 className="text-[42px] font-bold lg:text-start">
-          Hi, i&#39;m Alexander 👋
+          Hi, i&#39;m Arnav 👋
         </h1>
         <h2 className="text-xl lg:text-start">
-          Front-End Developer, founder, and Quality nerd.
+          Software Developer, founder, and Entreprenuer.
         </h2>
         <p className="text-lg lg:text-start text-muted-foreground">
-          I build seamless, user-first applications and web experiences that
+          I build seamless, user-first applications to
           bridge the gap between tech and people.
         </p>
       </div>
@@ -84,7 +76,7 @@ export default function Nav() {
       <ul className="flex flex-row gap-6 mt-6 lg:mt-0">
         <Button variant="outline" size="icon">
           <a
-            href="https://github.com/0xAlexander"
+            href="https://github.com/arnavpalawat"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -93,7 +85,7 @@ export default function Nav() {
         </Button>
         <Button variant="outline" size="icon">
           <a
-            href="https://linkedin.com/in/0xAlexander"
+            href="https://linkedin.com/in/arnavpalawat"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -7,23 +7,23 @@ import { Analytics } from "@vercel/analytics/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://meikopoulos.com"),
+  metadataBase: new URL("https://arnavpalawat.vercel.com"),
   alternates: {
-    canonical: "https://meikopoulos.com",
+    canonical: "https://arnavpalawat.vercel.com",
   },
-  title: "Alexander Meikopoulos",
+  title: "Arnav Palawat",
   description:
-    "Alexander Meikopoulos is a Front-End Software Engineer, founder, and Quality nerd.",
+    "Arnav Palawat",
   keywords:
-    "Alexander Meikopoulos, Front-end Engineer, Project Leader, Web Development, Web3, Decentralized Applications, Quality Assurance, Software Engineering, Blockchain, Cryptography",
+    "Arnav Palawat",
   openGraph: {
     locale: "en_US",
-    siteName: "Alexander Meikopoulos",
+    siteName: "Arnav Palawat",
     type: "website",
-    title: "Alexander Meikopoulos",
+    title: "Arnav Palawat",
     description:
-      "Alexander Meikopoulos is a Front-End Software Engineer, founder, and Quality nerd.",
-    url: "https://meikopoulos.com",
+      "Arnav Palawat",
+    url: "https://arnavpalawat.vercel.com",
     images: [
       {
         url: "./og-large-meik.jpg",
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Alexander Meikopoulos",
+    title: "Arnav Palawat",
   },
 };
 

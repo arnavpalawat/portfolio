@@ -11,37 +11,29 @@ import { Badge } from "@/components/ui/badge";
 import { MoveUpRight } from "lucide-react";
 
 const jobProjects = [
-  {
+  {  
     imagePath: "/swoop-og-banner.webp",
     title: "Swoop Exchange - Landing Page",
     description:
-      "Swoop's landing page highlights the platform's use cases and solutions. Swoop Exchange is a Meta-DEX Aggregator that automatically sources, ranks and routes quotes from the best DEX Aggregators and Bridges, ensuring the best prices for on-chain and cross-chain swaps. Swoop Exchange has achieved millions in USD volume and currently has around 4000 monthly users with 0 paid marketing.",
+      "- Developed a 3rd place winning application for the congressional app challenge, used to connect food insecure people with business' producing food waste in a comprehensive way, used firebase and flutter to build this application.",
     skills: [
-      "Next.js",
-      "Framer",
-      "Shadcn/ui",
-      "Typescript",
-      "JavaScript",
-      "Vercel",
+      "Flutter",
+      "Firebase",
       "Figma",
     ],
-    link: "https://swoop.exchange",
   },
   {
     imagePath: "/app-front-1.png",
     title: "Swoop Exchange - Application",
     description:
-      "Swoop Exchange is a next generation Meta Decentralized Exchange and Bridge Aggregator. By Aggregating the Aggregators, Bridges, and Liquidity across chains, and off-chain it solves protocol and liquidity fragmentation, significantly improving UX. Provides access to: 450,000+ Tokens, 7+ Aggregators, 13+ Bridges, 50+ DEXs, 280+ Liquidity Sources and 16+ Blockchains.",
+      "Trained 3 Machine Learning Models to predict disease presence based around a decision tree classifier in scikit by utilizing a python script. Utilized a Machine Learning model to recognize diabetes, lung cancer, and heart disease in Python, developed a Python script to run and predict the disease outcomes on your localhost using flask via http requests to the localhost Rest API. Built an aesthetic frontend in Flutter to send http requests to localhost and to accept input data.",
     skills: [
-      "Next.js",
-      "Typescript",
-      "JavaScript",
-      "MUI",
-      "Tailwind CSS",
-      "Vercel",
-      "Figma",
+      "Machine Learning",
+      "Decision Tree Classifiers",
+      "Python",
+      "Flutter",
+      "Flask",
     ],
-    link: "https://app.mtopswap.com",
   },
   {
     imagePath: "/meikopoulos.com_PC.png",

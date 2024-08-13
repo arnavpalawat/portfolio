@@ -13,8 +13,9 @@ import { MoveUpRight } from "lucide-react";
 const jobProjects = [
   {  
     title: "Mealify",
+    imagePath: 
     description:
-      "- Developed a 3rd place winning application for the congressional app challenge, used to connect food insecure people with business' producing food waste in a comprehensive way, used firebase and flutter to build this application.",
+      "Developed a 3rd place winning application for the congressional app challenge, used to connect food insecure people with business' producing food waste in a comprehensive way, used firebase and flutter to build this application.",
     skills: [
       "Flutter",
       "Firebase",

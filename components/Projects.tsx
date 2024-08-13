@@ -13,7 +13,7 @@ import { MoveUpRight } from "lucide-react";
 const jobProjects = [
   {  
     title: "Mealify",
-    imagePath: 
+    imagePath: "mealify.jpeg",
     description:
       "Developed a 3rd place winning application for the congressional app challenge, used to connect food insecure people with business' producing food waste in a comprehensive way, used firebase and flutter to build this application.",
     skills: [
@@ -25,6 +25,7 @@ const jobProjects = [
   {
 
     title: "Telehealth",
+    imagePath: "pink.jpeg",
     description:
       "Trained 3 Machine Learning Models to predict disease presence based around a decision tree classifier in scikit by utilizing a python script. Utilized a Machine Learning model to recognize diabetes, lung cancer, and heart disease in Python, developed a Python script to run and predict the disease outcomes on your localhost using flask via http requests to the localhost Rest API. Built an aesthetic frontend in Flutter to send http requests to localhost and to accept input data.",
     skills: [
@@ -37,10 +38,11 @@ const jobProjects = [
   },
   {
     title: "Political App Wiki",
+    imagePath: "internhs.png",
     description:
       "Built and deployed an app on the Apple App Store and Google Play Store with 1000s of downloads. Developed for and endorsed by an India based organization boasting over 10,000,000 members, used flutter and firebase to store, retrieve and display data. Utilized a database infrastructure to manage and access extensive datasets, implementing UI components for effective data presentation.",
     skills: ["Typescript", "JavaScript", "Tailwind CSS", "Vercel"],
-    link: "https://github.com/0xAlexander/my-website",
+    link: "internhs.com",
   },
 ];
 

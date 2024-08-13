@@ -17,14 +17,13 @@ export default function Contact() {
         </h2>
         <p className="lg:text-lg lg:text-start text-muted-foreground">
           I&#39;m always on the lookout for new opportunities and my inbox is
-          open for all. If you&#39;re considering my contribution, have a
-          question, or just want to say hi, you can count on hearing back from
-          me!
+          open for all. If you&#39;re considering my contribution or expertise, 
+          have a question, or just want to say hi, contact me through the below options!
         </p>
       </div>
       <div className="flex flex-row justify-center items-center gap-4 lg:px-6 mb-4">
         <a
-          href="mailto:alexander@meikopoulos.com"
+          href="mailto:arnavpalawat@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:cursor-pointer w-full"
@@ -33,7 +32,7 @@ export default function Contact() {
             <div className="flex flex-row items-center">
               <Mail className="dark:text-white text-muted h-6 w-6" />
               <p className="ml-3 text-2xl dark:text-white text-muted">
-                Say hello
+                Say Hello!
               </p>
             </div>
           </Button>

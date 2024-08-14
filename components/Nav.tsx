@@ -49,7 +49,7 @@ export default function Nav() {
           Hey, I&#39;m Arnav 👋
         </h1>
         <h2 className="text-xl lg:text-start">
-          Entrepreneur, Software Developer, Founder, Aspiring Consultant and Prospective VC Investor.
+          Entrepreneur, Software Developer, Founder, Aspiring Consultant and Prospective VC.
         </h2>
         <p className="text-lg lg:text-start text-muted-foreground">
           My mission is to  addressing vital challenges within complex ecosystems. 

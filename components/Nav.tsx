@@ -46,14 +46,17 @@ export default function Nav() {
     <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24 flex flex-col lg:gap-4">
       <div className="flex flex-col gap-4 lg:pr-24 mt-6 lg:mt-0">
         <h1 className="text-[42px] font-bold lg:text-start">
-          Hi, i&#39;m Arnav 👋
+          Hey, I&#39;m Arnav Palawat 👋
         </h1>
         <h2 className="text-xl lg:text-start">
-          Software Developer, founder, and Entreprenuer.
+          Entrepreneur, Software Developer, Founder, Aspiring Consultant and Prospective VC Investor.
         </h2>
         <p className="text-lg lg:text-start text-muted-foreground">
-          I build seamless, user-first applications to
-          bridge the gap between tech and people.
+          My mission is to  addressing vital challenges within complex ecosystems. 
+          I’m committed to driving meaningful, positive change through 
+          innovative solutions and direct involvement—whether it be through software 
+          development or investments. I aspire to take projects from ideation to creation 
+          and finally growth, building impactful and thriving initiatives.
         </p>
       </div>
       <nav className="lg:flex hidden">

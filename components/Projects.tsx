@@ -21,6 +21,7 @@ const jobProjects = [
       "Firebase",
       "Figma",
     ],
+    link: "https://github.com/arnavpalawat/Mealify",
   },
   {
 
@@ -35,6 +36,7 @@ const jobProjects = [
       "Flutter",
       "Flask",
     ],
+    link: "https://github.com/arnavpalawat/MediHacksTeleHealth",
   },
   {
     title: "Political App Wiki",
@@ -42,7 +44,6 @@ const jobProjects = [
     description:
       "Built and deployed an app on the Apple App Store and Google Play Store with 1000s of downloads. Developed for and endorsed by an India based organization boasting over 10,000,000 members, used flutter and firebase to store, retrieve and display data. Utilized a database infrastructure to manage and access extensive datasets, implementing UI components for effective data presentation.",
     skills: ["Typescript", "JavaScript", "Tailwind CSS", "Vercel"],
-    link: "internhs.com",
   },
 ];
 

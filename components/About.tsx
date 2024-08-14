@@ -10,11 +10,11 @@ export default function About() {
       </div>
       <div className="flex flex-col gap-4">
         <p className="text-start text-muted-foreground lg:px-6">
-          I embarked on my coding journey at 12, diving into app development with Flutter, and
-          a burning passion for bringing concepts from ideation to creation. This passion led me to design
-          and develop various apps, be it for massive political parties, or the U.S. Congress. From 15-16 I delved into
-          Python scripts, learning AI and ML, and web scraping,
-          focusing on community-centered projects.
+          I embarked on my coding journey at 12, diving headfirst into app development with Flutter.
+          A burning passion for bringing concepts from ideation to creation drove me to design
+          and develop various apps, be it for massive political parties, Cyberlaw Consultants,
+          or the U.S. Congress. From 15-16 I delved into Python scripting, learning AI and ML, web 
+          scraping, and recommendation algorithms, while focusing on community-centered projects.
         </p>
         <p className="text-start text-muted-foreground lg:px-6">
           In parallel, my path took an exciting turn into the non-profit space,
@@ -31,11 +31,12 @@ export default function About() {
           to develop in the workplace in a professional setting.
         </p>
         <p className="text-start text-muted-foreground lg:px-6">
-          Outside of coding, I&apos;m an avid entrepreneur who has started 
-          multiple businesses with interest in finance. Furthermore, I enjoy my time 
-          going outside, working out, and playing volleyball. Looking forward, 
-          I aim to leverage my development experience, entrepreneurship, and 
-          financial experience to build startups and investment algorithms.
+          Outside of coding, I&apos;m an avid entrepreneur who has founded 
+          serveral businesses and with experience in finance. Furthermore, 
+          I enjoy my time  going outside, working out, and playing volleyball. 
+          Looking forward, I aim to leverage my development experience, 
+          entrepreneurial spirit, and financial expertise to build startups 
+          and help solve pivotal issues within muti-national enterprises.
         </p>
       </div>
     </section>

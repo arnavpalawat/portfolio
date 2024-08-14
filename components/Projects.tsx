@@ -43,7 +43,7 @@ const jobProjects = [
   {
 
     title: "Telehealth",
-    imagePath: "pink.jpeg",
+    imagePath: "Telehealth.png",
     description:
       "Trained 3 Machine Learning Models to predict disease presence based around a decision tree classifier in scikit by utilizing a python script. Utilized a Machine Learning model to recognize diabetes, lung cancer, and heart disease in Python, developed a Python script to run and predict the disease outcomes on your localhost using flask via http requests to the localhost Rest API. Built an aesthetic frontend in Flutter to send http requests to localhost and to accept input data.",
     skills: [
@@ -57,7 +57,7 @@ const jobProjects = [
   },
   {
     title: "Political App Wiki",
-    imagePath: "mealify.jpeg",
+    imagePath: "PWA.png",
     description:
       "Built and deployed an app on the Apple App Store and Google Play Store with 1000s of downloads. Developed for and endorsed by an India based organization boasting over 10,000,000 members, used flutter and firebase to store, retrieve and display data. Utilized a database infrastructure to manage and access extensive datasets, implementing UI components for effective data presentation.",
     skills: ["Typescript", "JavaScript", "Tailwind CSS", "Vercel"],

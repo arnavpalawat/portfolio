@@ -109,7 +109,7 @@ export default function ExpCard() {
       <div className="lg:px-12 mt-12">
         <a
           className="inline-flex items-center font-medium leading-tight text-foreground group"
-          href="/arnavpalawat_cv.pdf"
+          href="/arnavpalawat-cv.pdf"
         >
           <span className="border-b border-transparent pb-px transition hover:border-primary motion-reduce:transition-none">
             View Full Resume

@@ -34,7 +34,7 @@ const jobPositions = [
     currentPosition: "Financial Analyst Intern",
     place: "State Street Journal",
     previousPositions: [
-      "Mergers and Aquisition Analyst Intern",
+      "M&A Intern",
     ],
     description:
       "Used Discounted Cashflow and Comparables analysis to model financial standing and valuation of companies. Scraped 10-K and 10-Q financial data using SEC edgar to ensure accuracy.",

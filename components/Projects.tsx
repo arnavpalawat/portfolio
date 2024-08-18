@@ -12,7 +12,7 @@ import { MoveUpRight } from "lucide-react";
 
 const jobProjects = [
   {  
-    title: "BOPM Call Options Pricing Model (Using ARIMA Time Series Forcasting)",
+    title: "BOPM Options Pricing Model (Using ARIMA Time Series Forcasting)",
     imagePath: "BOPM.png",
     description:
       "I built an ARIMA (Auto Regression Integrated Moving Average) time series forecaster to handle a differenced stock dataset. The ARIMA model was trained on three years of historical ticker data, which was downloaded from Yahoo Finance and differenced using logarithmic differencing. The model was then used to generate two states (± 1% from regression) for a one-year forecast, indicating potential outcomes for option exporting over the year. Additionally, I employed the BOPM (Binomial Option Pricing Model) method to price call options for a specific ticker and strike price, utilizing the two states derived from the ARIMA model.",
@@ -70,11 +70,11 @@ const jobProjects = [
     link: "https://github.com/arnavpalawat/MediHacksTeleHealth",
   },
   {
-    title: "Political App Wiki",
+    title: "Political Wiki App",
     imagePath: "PWA.png",
     description:
       "Built and deployed an app on the Apple App Store and Google Play Store with 1000s of downloads. Developed for and endorsed by an India based organization boasting over 10,000,000 members, used flutter and firebase to store, retrieve and display data. Utilized a database infrastructure to manage and access extensive datasets, implementing UI components for effective data presentation.",
-    skills: ["Typescript", "JavaScript", "Tailwind CSS", "Vercel"],
+    skills: ["Flutter", "HTTP", "Firebase", "Xcode"],
   },
 ];
 

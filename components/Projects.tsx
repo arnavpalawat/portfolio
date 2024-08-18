@@ -11,6 +11,20 @@ import { Badge } from "@/components/ui/badge";
 import { MoveUpRight } from "lucide-react";
 
 const jobProjects = [
+  {  
+    title: "BOPM Call Options Pricing Model (Using ARIMA Time Series Forcasting)",
+    imagePath: "BOPM.png",
+    description:
+      "I built an ARIMA (Auto Regression Integrated Moving Average) time series forecaster to handle a differenced stock dataset. The ARIMA model was trained on three years of historical ticker data, which was downloaded from Yahoo Finance and differenced using logarithmic differencing. The model was then used to generate two states (± 1% from regression) for a one-year forecast, indicating potential outcomes for option exporting over the year. Additionally, I employed the BOPM (Binomial Option Pricing Model) method to price call options for a specific ticker and strike price, utilizing the two states derived from the ARIMA model.",
+    skills: [
+      "Financial Markets",
+      "Python",
+      "Stochastic Modelling",
+      "Binomial Modelling",
+      "ARIMA",
+    ],
+    link: "https://github.com/arnavpalawat/BOPM_Options_ARIMA",
+  },
     {  
     title: "internhs",
     imagePath: "internhs.png",

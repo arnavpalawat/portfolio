@@ -108,7 +108,7 @@ export default function Projects() {
               </CardHeader>
               <CardContent className="flex flex-col p-0 w-full lg:w-2/3">
                 <p className="text-primary font-bold">
-                  {project.title}{" "}
+                  {project.title}{""}
                   <MoveUpRight className="ml-1 inline-block h-5 w-5 shrink-0 transition-transform group-hover:-translate-y-1 group-hover:translate-x-1 motion-reduce:transition-none" />
                 </p>
                 <CardDescription className="py-3 text-muted-foreground">

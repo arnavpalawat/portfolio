@@ -19,11 +19,23 @@ const jobProjects = [
     skills: [
       "Financial Markets",
       "Python",
-      "Stochastic Modelling",
+      "Time-Series Forcasting",
       "Binomial Modelling",
       "ARIMA",
     ],
     link: "https://github.com/arnavpalawat/BOPM_Options_ARIMA",
+  },
+  {  
+    title: "Swing Trading Algorithm Using ARIMA (Auto Regressive Integrated Moving Averages)",
+    imagePath: "Swing.png",
+    description:
+      "I developed an ARIMA (Auto Regressive Integrated Moving Averages) model to forecast future stock price movements, predicting up to 14 days ahead based on 60 days of historical data. The model has demonstrated over 82% accuracy in preliminary testing, using a training-to-test split ratio of 0.8 to 0.2. It takes a stock ticker as input and generates an auto-fitted ARIMA model by predicting the optimal p, d, and q order values.",
+    skills: [
+      "Time-Series Forcasting",
+      "Python",
+      "ARIMA",
+    ],
+    link: "https://github.com/arnavpalawat/Swing_Trading_Algorithm",
   },
     {  
     title: "internhs",

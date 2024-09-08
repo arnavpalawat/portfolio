@@ -11,6 +11,14 @@ import { Badge } from "@/components/ui/badge";
 import { MoveRight } from "lucide-react";
 
 const jobPositions = [
+    {
+    timeline: "Aug. 2024 — Present",
+    currentPosition: "Incoming Private Equity Intern",
+    place: "Third & Jefferson Holdings",
+    skills: [
+      "Deal Sourcing",
+    ],
+  },
   {
     timeline: "May 2024 — Present",
     currentPosition: "Founder, President",

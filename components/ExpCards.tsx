@@ -12,6 +12,22 @@ import { MoveRight } from "lucide-react";
 
 const jobPositions = [
   {
+    timeline: "Aug. 2024 — Present",
+    currentPosition: "Incoming Private Equity Intern",
+    place: "Third & Jefferson",
+    previousPositions: [""],
+    description:
+      "",
+    skills: [
+      "Deal Sourcing",
+      "Industry Analysis",
+      "Business Analysis",
+      "Financial Modelling",
+      "Web Sourcing",
+      "Aggregation Points",
+    ],
+  },
+  {
     timeline: "May 2024 — Present",
     currentPosition: "Founder, President",
     place: "internhs",
@@ -30,7 +46,7 @@ const jobPositions = [
     ],
   },
   {
-    timeline: "June 2024 — Present",
+    timeline: "June 2024 — Sept. 2024",
     currentPosition: "Financial Analyst Intern",
     place: "State Street Journal",
     previousPositions: [
@@ -49,7 +65,7 @@ const jobPositions = [
     ],
   },
   {
-    timeline: "June 2024 — Present",
+    timeline: "June 2024 — Sept. 2024",
     currentPosition: "AI/ML Research Intern - Internship",
     place: "Dugree",
     previousPositions: [""],

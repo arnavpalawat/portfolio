@@ -12,8 +12,8 @@ import { MoveRight } from "lucide-react";
 
 const jobPositions = [
     {
-    timeline: "Aug. 2024 — Present",
-    currentPosition: "Incoming Private Equity Intern",
+    timeline: "Sept. 2024 — Present",
+    currentPosition: "Private Equity Intern",
     place: "Third & Jefferson Holdings",
     previousPositions: [""],
     description: "",

@@ -26,7 +26,7 @@ export default function Nav() {
   ];
 
   const getNavItemClasses = (href: string) => {
-    const isActive = activeSection === href.substring(1);
+    const isActive = activeSection === href.substring(1); // Remove "#" for comparison
     return {
       linkClass: isActive ? "active" : "",
       indicatorClass: `nav-indicator mr-4 h-px w-8 bg-slate-600 transition-all ${
@@ -35,9 +35,7 @@ export default function Nav() {
           : "group-hover:w-16 group-hover:bg-foreground group-hover:h-px"
       }`,
       textClass: `nav-text text-xs font-bold uppercase tracking-widest ${
-        isActive
-          ? "text-foreground"
-          : "text-slate-500 group-hover:text-foreground"
+        isActive ? "text-foreground font-bold" : "text-slate-500 font-normal"
       }`,
     };
   };
@@ -45,14 +43,12 @@ export default function Nav() {
   return (
     <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24 flex flex-col lg:gap-4">
       <div className="flex flex-col gap-4 lg:pr-24 mt-6 lg:mt-0">
-        <h1 className="text-[42px] font-bold lg:text-start">
-          Hey, I&#39;m Arnav 👋
-        </h1>
+        <h1 className="text-[42px] font-bold lg:text-start">Hey, I&#39;m Arnav 👋</h1>
         <h2 className="text-xl lg:text-start">
           Entrepreneur, Software Developer, Founder, Aspiring Consultant and Prospective VC.
         </h2>
         <p className="text-lg lg:text-start text-muted-foreground">
-          My mission is to  addressing vital challenges within complex ecosystems. 
+          My mission is to address vital challenges within complex ecosystems. 
           I’m committed to driving meaningful, positive change through 
           innovative solutions and direct involvement—whether it be through software 
           development or investments. I aspire to take projects from ideation to creation 

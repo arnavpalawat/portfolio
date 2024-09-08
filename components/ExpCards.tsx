@@ -17,7 +17,7 @@ const jobPositions = [
     place: "Third & Jefferson Holdings",
     previousPositions: [""],
     description:
-      "",
+      " ",
     skills: [
       "Deal Sourcing",
     ],

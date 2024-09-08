@@ -20,11 +20,6 @@ const jobPositions = [
       "",
     skills: [
       "Deal Sourcing",
-      "Industry Analysis",
-      "Business Analysis",
-      "Financial Modelling",
-      "Web Sourcing",
-      "Aggregation Points",
     ],
   },
   {

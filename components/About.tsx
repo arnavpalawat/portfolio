@@ -33,7 +33,7 @@ export default function About() {
         <p className="text-start text-muted-foreground lg:px-6">
           Outside of coding, I&apos;m an avid entrepreneur who has founded 
           serveral businesses and with experience in finance. Furthermore, 
-          I enjoy my time  going outside, working out, and playing volleyball. 
+          I enjoy my time going outside with friends, working out, and playing volleyball. 
           Looking forward, I aim to leverage my development experience, 
           entrepreneurial spirit, and financial expertise to build startups 
           and help solve pivotal issues within muti-national enterprises.

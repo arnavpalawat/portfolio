@@ -58,7 +58,22 @@ const jobPositions = [
       "Valuation",
     ],
   },
-  
+  {
+    timeline: "June 2024 — Sept. 2024",
+    currentPosition: "AI/ML Research Intern - Internship",
+    place: "Dugree",
+    previousPositions: [""],
+    description:
+      "Building a research paper regarding how Prompt Engineering is to be utilized in Retrieval-Augmented Generation (RAG) frameworks to optimize the retrieval process and enhance an LLM's solving ability in regards to optimization problems.",
+    skills: [
+      "Machine Learning",
+      "Retrieval-Augmented Generation",
+      "Large Language Models",
+      "Prompt Engineering",
+      "Research",
+      "Python",
+    ],
+  },
 ];
 
 export default function ExpCard() {

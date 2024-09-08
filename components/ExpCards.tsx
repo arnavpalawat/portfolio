@@ -14,7 +14,7 @@ const jobPositions = [
   {
     timeline: "Aug. 2024 — Present",
     currentPosition: "Incoming Private Equity Intern",
-    place: "Third & Jefferson",
+    place: "Third & Jefferson Holdings",
     previousPositions: [""],
     description:
       "",

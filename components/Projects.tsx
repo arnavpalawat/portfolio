@@ -37,23 +37,6 @@ const jobProjects = [
     ],
     link: "https://github.com/arnavpalawat/Swing_Trading_Algorithm",
   },
-    {  
-    title: "internhs",
-    imagePath: "internhs.png",
-    description:
-      "I developed a website to help ambitious high school students secure internships by leveraging a content-based AI recommendation model. I built a Flask server to host Python scripts as REST APIs, which are then called from the frontend. To facilitate Cross-Origin Resource Sharing (CORS) among domains, I utilized Flask-CORS. For job scraping, I implemented a Python script capable of parsing JavaScript. I developed a recommendation model using scikit-learn and cosine similarity to perform similarity searches. The frontend was created using Flutter and designed with UI/UX principles in Figma. Managing over 100,000 read and write operations, I relied on Firebase for data storage and authentication. For deployment, I used Firebase Deploy to handle DNS and build verification certificates. Additionally, I incorporated the Groq AI API to manage and assess the quality of internships.",    skills: [
-      "Linear Algebra",
-      "Cosine Similarity",
-      "Python",
-      "JS Scraping",
-      "Ubuntu Server-side",
-      "CORS",
-      "Flutter",
-      "Firebase",
-      "Figma",
-    ],
-    link: "https://internhs.com",
-  },
   {  
     title: "Mealify",
     imagePath: "mealify.png",
